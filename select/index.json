@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Play For Week（feat. Bark）",
+  "base_artist": "BAD HOP",
+  "createdAt": "2026-03-26T01:50:04.617486Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Play For Week (feat. Bark)",
+      "artist": "BAD HOP",
+      "has_synced": false,
+      "path": "select/01_Play_For_Week_(feat._Bark)_BAD_HOP.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Play For Week (feat. Bark)",
+      "artist": "BAD HOP",
+      "has_synced": false,
+      "path": "select/pl_01_Play_For_Week_(feat._Bark)_BAD_HOP.txt"
+    }
+  ]
+}
